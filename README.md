@@ -93,5 +93,5 @@ We use VPC because:
   -Click Edit routes
   -Add route; Destination 0.0.0.0/0
   -Target: Internet gateway
-  -Click Save
+  -Click Save 
 
