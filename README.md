@@ -87,8 +87,9 @@ We use VPC because:
 - Name: Public-route-Myvpc10
 - Select VPC: Myvpc
 - Click Create
-## Now add route
+
   ---
+## Now add route
 -Select public-route-Myvpc-10
 -Go to Routes tab
 -Click Edit routes
