@@ -23,3 +23,13 @@ Inside a VPC we can create:
 - Load Balancer  
 
 ---
+## ❓ Why We Use VPC?
+
+We use VPC because:
+
+- It provides strong network security  
+- We can control IP address ranges using CIDR blocks  
+- We can separate resources into public and private networks  
+- It helps to build secure real-world cloud architectures  
+
+---
