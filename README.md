@@ -34,3 +34,4 @@ We use VPC because:
 
 ---
 ##  VPC Architecture  
+<img width="692" height="370" alt="image" src="https://github.com/user-attachments/assets/a9344ef8-a724-4826-aac2-da016a185011" />
