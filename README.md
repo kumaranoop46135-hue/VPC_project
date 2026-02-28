@@ -61,4 +61,18 @@ We use VPC because:
 <img width="830" height="654" alt="image" src="https://github.com/user-attachments/assets/49c8ceec-a764-404f-bab1-099aeae2de1a" />
 
 ---
-
+## Create Public Subnet
+- Go to Subnets
+- Click Create Subnet
+- Select VPC:myvpc10
+- Enter : Subnet name: public-subnet
+- Select any region example
+- CIDR:10.0.1.0/24
+  
+## Create private subnet
+- Go to Subnets
+- Click Create Subnet
+- Select VPC:Myvpc10
+- Enter: subnet name : Private-subnet
+- Select any region example
+- CIDR: 10.0.2.0/24
