@@ -35,3 +35,17 @@ We use VPC because:
 ---
 ##  VPC Architecture  
 <img width="692" height="370" alt="image" src="https://github.com/user-attachments/assets/a9344ef8-a724-4826-aac2-da016a185011" />
+
+-----
+
+## Step to login AWS console 
+- Go to AWS console
+- Search VPC
+- Open VPC Dashboard
+
+## Step to Create VPC
+- Click create VPC
+- Select VPC only
+- Enter Name :Myvpc10
+- IPv4 CIDR:10.0.0.0/16
+- Click create VPC 
