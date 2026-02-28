@@ -76,3 +76,7 @@ We use VPC because:
 - Enter: subnet name : Private-subnet
 - Select any region example
 - CIDR: 10.0.2.0/24
+---
+  # Minimum public subnet is (1) & Minimum private Subnet is (2)
+  <img width="827" height="724" alt="image" src="https://github.com/user-attachments/assets/8e561186-65b5-4a8d-9ea0-5a85c8e65701" />
+
