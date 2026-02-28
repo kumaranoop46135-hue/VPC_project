@@ -82,3 +82,16 @@ We use VPC because:
 
 ---
 # Create Route Table for Public Subnet or private subnet
+- Go to Route Tables
+- Click Create Route Table
+- Name: Public-route-Myvpc10
+- Select VPC: Myvpc
+- Click Create
+  ## Now add route
+  - Select public-route-Myvpc-10
+- Go to Routes tab
+  -Click Edit routes
+  -Add route; Destination 0.0.0.0/0
+  -Target: Internet gateway
+  -Click Save
+
