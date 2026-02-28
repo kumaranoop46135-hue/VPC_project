@@ -88,8 +88,9 @@ We use VPC because:
 - Select VPC: Myvpc
 - Click Create
   ## Now add route
-  - Select public-route-Myvpc-10
-- Go to Routes tab
+  
+  -Select public-route-Myvpc-10
+  -Go to Routes tab
   -Click Edit routes
   -Add route; Destination 0.0.0.0/0
   -Target: Internet gateway
