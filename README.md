@@ -48,4 +48,9 @@ We use VPC because:
 - Select VPC only
 - Enter Name :Myvpc10
 - IPv4 CIDR:10.0.0.0/16
-- Click create VPC 
+- Click create VPC
+
+  ---
+
+<img width="839" height="831" alt="image" src="https://github.com/user-attachments/assets/f68c5aa2-0896-410f-8c33-95370aa4e4ea" />
+
