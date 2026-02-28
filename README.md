@@ -80,3 +80,5 @@ We use VPC because:
   # Minimum public subnet is (1) & Minimum private Subnet is (2)
   <img width="827" height="724" alt="image" src="https://github.com/user-attachments/assets/8e561186-65b5-4a8d-9ea0-5a85c8e65701" />
 
+---
+# Create Route Table for Public Subnet or private subnet
