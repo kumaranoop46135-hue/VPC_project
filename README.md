@@ -96,6 +96,11 @@ We use VPC because:
 - Add route; Destination 0.0.0.0/0
 - Target: Internet gateway
 - Click Save 
-
+## SAME PROCESS IS PRIVATE ROUTE TABLE
 ---
 
+## Create Internet Gateways
+- Click internet gateways
+- Name: internet-MyVpc10
+- Click create
+- Now to Attached on MYvpc
