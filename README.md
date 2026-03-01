@@ -157,3 +157,8 @@ agar aap private ec2 bana rahe ho to private subnet select karo
 - Security group rule SSh,HTTP,(source 0.0.0.0/0)(Source Type ANYWHERE)
 - Select configure Storage (20GiB)
 - Click on Launch Instance
+
+---
+## this way to login or ssh your ec2 to powershell 
+
+<img width="1806" height="862" alt="image" src="https://github.com/user-attachments/assets/4a0c8b6b-6b0a-4b18-bda9-203e1467d477" />
