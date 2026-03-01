@@ -131,3 +131,29 @@ RouteAdded ho.
 - Jab tak ap Public subnet ko Public Route Table ke saath associate nahi karte tab tak;
 - ➢ Subnet internet use nahi ker payega
 - ➢ EC2 public subnet me hoke bhi internet nahi chalega 
+
+# 2.Associate Private Subnet with Private Route Table
+## ➢ After you create route table than create internet getway or
+nat gatway
+- Select Private-Route-Myvpc10
+- Go to Subnet Associations
+- Click Edit Subnet Associations
+- Select Private-subnet
+- Click Save
+## 2.1>Associate private subnet with private Route Table ka Matlab Hota hai
+Private Subnet ko us Route Table se connect (Attach) karna jisme nat gatways ka Route
+Added ho.
+# Launch EC2 in Public Subnet or private subnet
+- Click on Ec2
+- E nter name and tags
+- Select any os like Amazon linux
+- Enter key, key pair is same public or private ec2
+- Click network Edit
+- Select your Vpc Myvpc10
+- Select your subnet agar aap public ec2 bana rahe hei tu public subnet select karo or
+agar aap private ec2 bana rahe ho to private subnet select karo
+- Public (Auto-assign)(Enable karna hei)
+- Private (Auto-assign)(Disable karna hei)
+- Security group rule SSh,HTTP,(source 0.0.0.0/0)(Source Type ANYWHERE)
+- Select configure Storage (20GiB)
+- Click on Launch Instance
