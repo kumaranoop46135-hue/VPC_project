@@ -104,6 +104,9 @@ We use VPC because:
 - Name: internet-MyVpc10
 - Click create
 - Now to Attached on MYvpc
+- internet attached on public
+
+## same proccess is nat gateway and connect private sub
 
 <img width="755" height="470" alt="image" src="https://github.com/user-attachments/assets/647f840a-735e-455d-a7f8-6a7109d104ed" />
 
