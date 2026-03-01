@@ -116,3 +116,18 @@ We use VPC because:
 <img width="743" height="305" alt="image" src="https://github.com/user-attachments/assets/1164bb13-3868-4651-b7f9-93661a1014be" />
 
 ---
+
+## 1.Associate Public Subnet with Public Route Table
+- Select Public-route-Myvpc10
+- Go to Subnet Associations
+- Click Edit Subnet Associations
+- Select Public-subnet
+- Click Save
+  ## 1.1>Associate public subnet with public Route Table ka Matlab hota
+hai:
+- Public Subnet Ko us Route Table se Connect (Attach) karna jisme Internet Gatway(IGW) Ka
+RouteAdded ho.
+- Simple language mein
+- Jab tak ap Public subnet ko Public Route Table ke saath associate nahi karte tab tak;
+- ➢ Subnet internet use nahi ker payega
+- ➢ EC2 public subnet me hoke bhi internet nahi chalega 
