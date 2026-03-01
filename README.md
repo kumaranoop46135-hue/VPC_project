@@ -162,3 +162,48 @@ agar aap private ec2 bana rahe ho to private subnet select karo
 ## this way to login or ssh your ec2 to powershell 
 
 <img width="1806" height="862" alt="image" src="https://github.com/user-attachments/assets/4a0c8b6b-6b0a-4b18-bda9-203e1467d477" />
+
+---
+
+## step by step all command and build httpd server 1 $ server 2
+- ssh -i "ppp.pem" ec2-user@10.0.1.219 (this is main command to connect private ec2 to public and after taht you are login private ec2)
+- vim ppp.pem (this is a key command go to download folder and copy key and past)
+- sudo yum install httpd
+- sudo systemctl start httpd
+- sudo systemctl enable httpd
+-  cd /var/www/html
+-  sudo nano index.html
+
+---
+
+ # NEXT STEP TO CREAT A TARGET GROUP 
+
+ <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/aebfffee-0c6f-4107-ac1c-3be9abced045" />
+ ALL target is healthy that all fine 
+
+---
+
+ # next step to creat a load blancer 
+
+ <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/602195a3-a4e7-4925-8d26-c4a3667cca17" />
+
+ ---
+
+ ## NEXT STEP AND FINAL STEP 
+ - COPY DNS AND PAST CHROME
+ - AND CLICK ON THE REFRESH BUTTON 
+
+---
+
+# thats good your are creat your vpc project successfuly creat with load blancer 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c89897b-9338-4475-bbb5-c13fbdd0042e" />
+
+---
+
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ab284c5-679a-4479-a183-6eb015cf0d23" />
+
+---
+
+## Author 
+# Anoop kumar
