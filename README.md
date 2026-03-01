@@ -104,3 +104,15 @@ We use VPC because:
 - Name: internet-MyVpc10
 - Click create
 - Now to Attached on MYvpc
+
+<img width="755" height="470" alt="image" src="https://github.com/user-attachments/assets/647f840a-735e-455d-a7f8-6a7109d104ed" />
+
+---
+
+<img width="757" height="737" alt="image" src="https://github.com/user-attachments/assets/60c3e24c-e77a-4e96-92c3-6631ede65275" />
+
+---
+
+<img width="743" height="305" alt="image" src="https://github.com/user-attachments/assets/1164bb13-3868-4651-b7f9-93661a1014be" />
+
+---
